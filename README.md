@@ -6,7 +6,8 @@ It serves as a lightweight lab for experimenting with ideas, learning concepts, 
 
 ![repository preview image](assets/script-lab-preview.png)
 
----
+<br>
+
 ## 🛠️ | Project Overview
 
 - `mvc-todo-app.py`
@@ -16,7 +17,7 @@ It serves as a lightweight lab for experimenting with ideas, learning concepts, 
 
 *More scripts will follow.*
 
----
+<br>
 
 ## 🚀 | Installation
 
@@ -44,7 +45,7 @@ pip install -r requirements.txt
 python mvc-water-reminder.py
 ```
 
----
+<br>
 
 ## 🐛 | Bugs
 - Feel free to report any bugs
